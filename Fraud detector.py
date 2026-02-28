@@ -267,11 +267,11 @@ def chatbot():
     while True:
 
         print("\nCommands:")
-        print("1. add supplier")
-        print("2. add transaction")
-        print("3. check risk")
-        print("4. network analysis")
-        print("5. exit")
+        print("1. Add supplier")
+        print("2. Add transaction")
+        print("3. Check risk")
+        print("4. Network analysis")
+        print("5. Exit")
 
         choice = input("\nEnter command: ").lower()
 
